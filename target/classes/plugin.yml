@@ -1,0 +1,5 @@
+name: CustomRecipes
+version: '1.0-SNAPSHOT'
+main: com.example.customrecipes.CustomRecipes
+api-version: '1.21'
+description: Adds two custom crafting recipes.
